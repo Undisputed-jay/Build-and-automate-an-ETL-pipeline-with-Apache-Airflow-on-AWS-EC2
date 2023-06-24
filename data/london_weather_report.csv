@@ -1,0 +1,2 @@
+City,Weather Description,Feels Like (F),Temperature (F),Minimum Temperature (F),Maximum Temperature (F),Pressure,Humidity,Wind Speed,Time of Record,Sunrise (Local Time),Sunset (Local Time)
+London,overcast clouds,81.69800000000004,80.29400000000007,76.11800000000008,81.98600000000008,1019,56,1.54,2023-06-24 19:07:05,2023-06-24 04:43:46,2023-06-24 21:21:47

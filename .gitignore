@@ -1,0 +1,7 @@
+dev.json
+dockerfile
+*txt
+plugins
+config
+logs
+__pycache__
