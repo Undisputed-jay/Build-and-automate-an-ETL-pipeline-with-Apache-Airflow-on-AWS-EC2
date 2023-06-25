@@ -4,3 +4,4 @@ In this data engineering project, i will build and automate an ETL process that 
 
 <h2>Data Architecture</h2>
 
+![architecture](https://github.com/Undisputed-jay/Build-and-automate-an-ETL-pipeline-with-Apache-Airflow-on-AWS-EC2/assets/76854346/359f4737-8e84-42ab-aec2-9cda9c94e855)
